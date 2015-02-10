@@ -13,6 +13,8 @@ tags: cultural
 
 [Link here](http://www.ted.com/talks/david_blaine_how_i_held_my_breath_for_17_min?language=en)
 
+<iframe src="https://embed-ssl.ted.com/talks/david_blaine_how_i_held_my_breath_for_17_min.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 ## Questions
 
 * What limiting beliefs are present in your life?
