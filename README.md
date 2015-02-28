@@ -1,5 +1,5 @@
 ---
-language: english
+languages: english
 tags: cultural
 ---
 
