@@ -1,7 +1,4 @@
----
-languages: english
-tags: cultural
----
+
 
 # How I held my breath for 17 minutes
 
