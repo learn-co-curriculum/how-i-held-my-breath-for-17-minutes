@@ -19,4 +19,4 @@
 
 ## Asssignment
 
-Watch [David Blaine's Ted Talk](http://www.ted.com/talks/david_blaine_how_i_held_my_breath_for_17_min?language=en). Then write a blog post reflecting on the video and the questions above.
+I felt this was awesome although whatever.
