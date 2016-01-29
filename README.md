@@ -21,4 +21,4 @@
 
 Watch [David Blaine's Ted Talk](http://www.ted.com/talks/david_blaine_how_i_held_my_breath_for_17_min?language=en). Then write a blog post reflecting on the video and the questions above.
 
-<a href='https://learn.co/lessons/how-i-held-my-breath-for-17-minutes' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/how-i-held-my-breath-for-17-minutes' title='How I held my breath for 17 minutes'>How I held my breath for 17 minutes</a> on Learn.co and start learning to code for free.</p>
